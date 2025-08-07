@@ -1,0 +1,11 @@
+# pastas
+node_module/
+
+# arquivos
+.env
+
+# estilos
+style.css
+
+# arquivos dessa extenção
+.inc
